@@ -1,0 +1,17 @@
+{
+  "name": "fusuma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "deploy": "fusuma build && fusuma deploy",
+    "pdf": "fusuma pdf"
+  },
+  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "fusuma": "^1.1.0"
+  }
+}

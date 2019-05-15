@@ -1,0 +1,19 @@
+meta:
+  url: https://slide.hiroppy.me
+  name: Fusuma
+  author: hiroppy
+  description: Introduce Fusuma
+  thumbnail: https://cn.vuejs.org/images/logo.png
+  siteName: hiroppy.me
+  repositoryUrl: https://github.com/hiroppy/fusuma
+  sns: ['twitter']
+slide:
+  showIndex: true
+  code:
+    languages:
+      - yaml
+      - json
+      - markdown
+extends:
+  js: index.js
+  css: style.css
